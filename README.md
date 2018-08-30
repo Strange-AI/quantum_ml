@@ -1,6 +1,8 @@
 # Awesome Quantum Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is the code for [this](https://youtu.be/DmzWsvb-Un4) video on Youtube by Siraj Raval. Credits for compiling this list go to [krishnakumarsekar](https://github.com/llSourcell/quantum_machine_learning). A curated list of awesome quantum machine learning algorithms,study materials,libraries and software (by language).
+[StrangeAI 第一期：量子机器学习]
+这是Youtube频道的代码 By LucasJin，感谢奇异AI提供平台。感谢Siraj，以及krishnakumarsekar，我们在这些基础上进行了衍生和修改，以中文的方式给大家传授。欢迎大家关注微信公众号“奇异人工智能”，关注最新黑科技新闻资讯！
+
 
 [![Main Architecture](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/Quantum%20Machine%20complete%20Architecture.png)](https://arxiv.org/pdf/1611.09347.pdf)
 
